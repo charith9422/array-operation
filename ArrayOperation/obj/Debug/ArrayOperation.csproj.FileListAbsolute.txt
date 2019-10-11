@@ -1,0 +1,7 @@
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\bin\Debug\ArrayOperation.exe.config
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\bin\Debug\ArrayOperation.exe
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\bin\Debug\ArrayOperation.pdb
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.exe
+C:\Users\DSP\source\repos\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.pdb
